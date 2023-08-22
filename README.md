@@ -1,9 +1,9 @@
-# Title
-**Project Type:** 
-**Programming Language:** 
-**Project Сode:** 
-**Project Full Description** (in Russian): 
-**Company:** 
+# (2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters of Hydrodynamic Model Optimization Problem. Dimension Reduction (Upscaling)
+**Project Type:** Work project, Mathematical Modeling, Applied Research   
+**Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple), Python 3  
+**Project Сode:** https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme/edit/main/%D0%9D%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D1%80%D0%BA%D0%B0%20%D1%8F%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt  
+**Project Full Description**:  
+**Company:** [math. model. lab. GAMMETT](http://gammett.ugatu.su/)
 
 
 
