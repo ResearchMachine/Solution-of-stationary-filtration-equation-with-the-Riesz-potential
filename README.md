@@ -16,8 +16,10 @@ The main purpose of this work is derivation and debugging of a computational alg
 
 
 ### III. Key Results 
-* numerical scheme is constructed for the steady case;
-* explicit numerical scheme for non-steady equation is constructed.  
+A computational method for a new predictive model of hydrodynamics with memory has been developed and implemented. The computational problem of the model and the solution method are highlighted. 
+
+* Numerical scheme is constructed for the steady case;
+* Explicit numerical scheme for non-steady equation is constructed.  
   
 
 ### III. Content
