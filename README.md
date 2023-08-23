@@ -9,7 +9,7 @@
 
 
 ### I. Motivation
-Diffusion models are used in a wide range of applications, such as futures forecasting or oil production forecasting. Models with memory have appeared relatively recently and are used in a wide range of tasks. The combination of these approaches makes it possible to carry out a forecast taking into account nonlocality in coordinates.
+Diffusion models are used in a wide range of applications, such as [market forecasting](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1016&context=engscheleart2) or oil production forecasting. Models with memory have appeared relatively recently and are used in a wide range of tasks. The combination of these approaches makes it possible to carry out a forecast taking into account nonlocality in coordinates.
 
 ### II. Problem
 The main purpose of this work is ... .
